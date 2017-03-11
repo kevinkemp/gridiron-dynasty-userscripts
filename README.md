@@ -1,1 +1,1 @@
-test
+A set of userscripts that improve the usability of the Gridiron Dynasty website.
