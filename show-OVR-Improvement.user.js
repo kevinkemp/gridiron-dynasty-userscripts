@@ -7,8 +7,8 @@
 // @include      https://www.whatifsports.com/gd/TeamProfile/PlayerRatings.aspx*
 // @grant        none
 // @require      https://b7e3f7ecd0022dc06c066e7fe84da2c3fa944846.googledrive.com/host/0BzvzZtanqhjkfkpqNnE5YW1FNGw3YVJ6V1I2MVZZSTlNVnNWOUNFOHpRNVpLTXBpTFoxQjQ/shared.js#
-// @updateURL    https://3740ac2d548880cc78a30c20630c9ffeef7b5466-www.googledrive.com/host/0BzvzZtanqhjkb2hFdUtkaDZCX2s/show-OVR-Improvement.user.js
-// @downloadURL  https://3740ac2d548880cc78a30c20630c9ffeef7b5466-www.googledrive.com/host/0BzvzZtanqhjkb2hFdUtkaDZCX2s/show-OVR-Improvement.user.js
+// @updateURL    https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/show-OVR-Improvement.user.js
+// @downloadURL  https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/show-OVR-Improvement.user.js
 // ==/UserScript==
 
 Array.prototype.getUnique = function(){

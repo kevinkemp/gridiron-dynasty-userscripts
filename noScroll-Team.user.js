@@ -6,8 +6,8 @@
 // @author       Scott Burleigh/Kevin Kemp
 // @match        https://www.whatifsports.com/gd/TeamProfile/PlayerRatings.aspx*
 // @grant        none
-// @updateURL    https://c7c07be1107a1c73e64e8787123e595f1f77c892-www.googledrive.com/host/0BzvzZtanqhjkVVprMUpzeURFVEE
-// @downloadURL  https://c7c07be1107a1c73e64e8787123e595f1f77c892-www.googledrive.com/host/0BzvzZtanqhjkVVprMUpzeURFVEE
+// @updateURL    https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/noScroll-Team.user.js
+// @downloadURL  https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/noScroll-Team.user.js
 // ==/UserScript==
 
 $('.TabBoxContent').css('height', '100%');
