@@ -14,15 +14,15 @@ Userscripts are open-source licensed plugins for web browsers that change web pa
 * You want to view GUESS OVR rating on the roster management pages
 * You want a toggle to hide players who didn't sign with you on the recruiting page
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PlayerRatings OVRs")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "PlayerRatings improvements")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Roster OVRs")
+![alt text](https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/images/ovr.example.PNG "PlayerRatings OVRs")
+![alt text](https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/images/improvements.example.PNG "PlayerRatings improvements")
+![alt text](https://github.com/kevinkemp/gridiron-dynasty-userscripts/raw/master/images/roster.example.PNG "Roster OVRs")
 
 # What limitations does this approach have?
 
 * Older browsers might not support them
 * Mobile browsers might not support them
-* If the UI of the site is updated, these will almost certainly break (although they would be irrelevant in the first place if the UX was better)
+* If the UI of the site is updated, these will almost certainly break
 
 # How do I use these?
 
@@ -39,4 +39,5 @@ Feel free to suggest features through GitHub or on the GD forums through message
 
 ### Donate
 
-Absolutely not required, but here is a way you can say thank you, if you wish: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KCR3WKAWASXJ2)
+Absolutely not required, but here is a way you can say thank you, if you wish: 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KCR3WKAWASXJ2)
