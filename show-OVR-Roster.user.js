@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         show-OVR-Roster
 // @namespace    Gridiron Dynasty
-// @version      0.1.3
+// @version      0.1.4
 // @description  shows OVR scores for players on PlayerRatings page
 // @author       Scott Burleigh/Kevin Kemp
 // @include      https://www.whatifsports.com/gd/Coaching/
@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 var scrapeTeamPage = function(teamId) {
-    var teamPage   = 'http://www.whatifsports.com/gd/TeamProfile/PlayerRatings.aspx?tid=' + teamId;
+    var teamPage   = 'https://www.whatifsports.com/gd/TeamProfile/PlayerRatings.aspx?tid=' + teamId;
 
     GM_xmlhttpRequest ( {
         method:     'GET',
