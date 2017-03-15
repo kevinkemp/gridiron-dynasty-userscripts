@@ -30,6 +30,7 @@ Depends on your browser.  For Chrome, I would recommend Tampermonkey.  For Firef
 
 1. Install browser plugin (Tampermonkey, Greasemonkey, etc).
 2. Install userscripts that you want to use.  Any script in source that has a ".user.js" suffix is a userscript.  How you install a userscript is dependent upon your plugin, but for Tampermonkey, it's as easy as clicking the file above and then clicking the "Raw" link.  Tampermonkey will realize that it's a userscript and prompt you to install it.
+**Important Note** show-OVR-Improvement.user.js needs to be installed last since it depends upon another script.
 3. Potentially, you will need to restart your browser.
 4. Go to the webpage and enjoy.
 
@@ -37,7 +38,8 @@ Depends on your browser.  For Chrome, I would recommend Tampermonkey.  For Firef
 
 Feel free to suggest features through GitHub or on the GD forums through messages.  I have no plans to add more scripts, but if a feature has a high enough value to time required ratio, I will add it.  Additionally, this library is completely open source and free to extend how you see fit, so if you want to fork it and expand upon it yourself, feel free to.
 
-### Donate
+### Say Thank You
 
-Absolutely not required, but here is a way you can say thank you, if you wish: 
+You can star this repository (free) and/or donate (not free).  Both are appreciated.  =)
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KCR3WKAWASXJ2)
