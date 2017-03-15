@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         show-OVR-Roster
 // @namespace    Gridiron Dynasty
-// @version      0.1.4
+// @version      0.1.5
 // @description  shows OVR scores for players on PlayerRatings page
 // @author       Scott Burleigh/Kevin Kemp
 // @include      https://www.whatifsports.com/gd/Coaching/
@@ -46,13 +46,13 @@ var getPlayerOvrs = function(htmlRoot) {
         }
     });
     return playerOvrs;
-}
+};
 
 var populateOvrsOnPage = function(ovrs) {
     var headerRow = $('#playerTable thead tr');
     var rows = $('#playerTable tbody tr');
     
-    headerRow.append('<th title="OVR"><a href="#" class="sortheader" onclick="ts_resortTable(this,' + ovrIndex + ');return false;">OVR<span class="sortarrow"></span></a></th>');
+    headerRow.append('<th title="OVR"><a href="#" class="sortheader" onclick="ts_resortTable(this,11);return false;">OVR<span class="sortarrow"></span></a></th>');
     $.each(rows, function(index, row) {
         var playerName = $('a', row).text();
         var playerOverall = ovrs[playerName];
